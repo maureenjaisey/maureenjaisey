@@ -12,13 +12,13 @@ I am a Computer Science undergraduate with a passion for using technology to sol
 I aspire to work within the financial technology industry, working with data either in a software engineering capacity or as a data analyst/scientist. I am eager to join a forward-thinking team where I can contribute to impactful solutions, continuously learn, and grow in the evolving field of data technology. I am open to working in different roles and capacities, whether in a start-up environment or a well-established company.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/maureen-jaisey" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
-  </a>
-   <a href="mailto:maureen.jaisey@outlook.com">
-    <img src="https://img.shields.io/static/v1?message=send%20email&label=&color=8A2BE3&labelColor=&style=for-the-badge" height="35" alt="mail" />
-  </a>
+  
+  [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maureen-jaisey)
+  [![Email Me](https://img.shields.io/static/v1?message=send%20me%20an%20email&label=&color=8A2BE3&labelColor=&style=for-the-badge)](mailto:maureen.jaisey@outlook.com")
+
+  
 </div>
+
 
 <h2 align="left">My Portfolio 💼 </h2>
 
@@ -29,7 +29,7 @@ My portfolio exemplifies my passion for data analytics and the endless possibili
 To find out more, click the link to my portfolio below ⤵️
 <div align="center">
   <a href="mailto:maureen.jaisey@outlook.com">
-    <img src="https://img.shields.io/static/v1?message=portfolio%20website&label=&color=2B2BFF&labelColor=&style=for-the-badge" height="35" alt="portfolio site" />
+    <img src="https://img.shields.io/static/v1?message=portfolio%20website&label=&color=2B2BFF&labelColor=&style=for-the-badge" alt="portfolio site" />
   </a>
 </div>
 
