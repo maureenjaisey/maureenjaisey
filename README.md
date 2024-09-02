@@ -14,7 +14,7 @@ I aspire to work within the financial technology industry, working with data eit
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maureen-jaisey)
-  [![Email Me](https://img.shields.io/static/v1?message=send%20me%20an%20email&label=&color=8A2BE3&labelColor=&style=for-the-badge)](mailto:maureen.jaisey@outlook.com")
+  [![Email Me](https://img.shields.io/static/v1?message=send%20me%20an%20email&label=&color=2B2BFF&labelColor=&style=for-the-badge)](mailto:maureen.jaisey@outlook.com")
 
   
 </div>
@@ -76,8 +76,3 @@ To find out more, click the link to my portfolio below ⤵️
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 <!--   <img src=""/> -->
 </div>
-
-
- 
-
-
