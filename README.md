@@ -20,7 +20,7 @@ I aspire to work within the financial technology industry, working with data eit
 </div>
 
 
-<h2 align="left">My Portfolio 💼 </h2>
+<!-- <h2 align="left">My Portfolio 💼 </h2>
 
 The practical application of my theoretical knowledge in real-world situations has been instrumental in my development as a programmer.
 
@@ -31,10 +31,10 @@ To find out more, click the link to my portfolio below ⤵️
   <a href="mailto:maureen.jaisey@outlook.com">
     <img src="https://img.shields.io/static/v1?message=portfolio%20website&label=&color=2B2BFF&labelColor=&style=for-the-badge" alt="portfolio site" />
   </a>
-</div>
+</div> -->
 
 <h2 align="left">Languages 📚</h2>
-<div>
+<div> 
 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
